@@ -1,0 +1,39 @@
+clear (limpar)
+
+pwd (mostrar pastas)
+
+cd.. (voltar pasta)
+
+cd nome_pasta (ir pro diretório)
+
+git clone https://github.com/ArielMKT/BandTec-Teste (shift insert) (clonando o diretório do meu github)
+
+cd BandTec-Teste (entrando na pasta)
+
+clear (limpando)
+
+git status (mostra tudo que o git acha que aconteceu com o projeto)
+
+criar arquivo no diretório do projeto (baixado)
+
+para enviar arquivos para a nuvem temos 3 passos:
+1) o quê?
+2) por quê?
+3) empurrar
+
+para configurar notebook próprio
+git config --global user.name "Ariel"
+git config --global user.email "arielmagalhaeslira@gmail.com"
+
+para enviar todos arquivos novos
+git add . (está dizendo pro git que você vai enviar tudo que foi modificado) (o que)
+
+git commit -m "Meu primeiro arquivo pro GitHub owwwn" (por que)
+
+git push (empurrar)
+
+git diff (ver alteração no arquivo)
+
+git checkout 811399ec6b5396deb9e2a4f3e948ed62fe61bb02 (voltando antes de apagar o arquivo)
+git checkout master (volta ao original)
+
